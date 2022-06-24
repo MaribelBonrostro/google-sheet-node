@@ -1,0 +1,27 @@
+{
+  "name": "google-sheet-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaribelBonrostro/google-sheet-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaribelBonrostro/google-sheet-node/issues"
+  },
+  "homepage": "https://github.com/MaribelBonrostro/google-sheet-node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  }
+}
